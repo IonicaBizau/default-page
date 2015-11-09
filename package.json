@@ -1,6 +1,6 @@
 {
   "name": "default-page",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Default page for websites in construction or anything related to this. It's very useful when you start a new website/web app.",
   "main": "index.js",
   "scripts": {
@@ -17,10 +17,15 @@
     "css",
     "site"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "MIT",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
   "bugs": {
     "url": "https://github.com/IonicaBizau/default-page/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/default-page"
+  "homepage": "https://github.com/IonicaBizau/default-page",
+  "blah": {
+    "ex_img": "http://i.imgur.com/wsTw2lE.png",
+    "ex_url": "http://ionicabizau.github.io/default-page",
+    "license_year": "2014\n"
+  }
 }
