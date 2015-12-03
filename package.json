@@ -1,6 +1,6 @@
 {
   "name": "default-page",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Default page for websites in construction or anything related to this. It's very useful when you start a new website/web app.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "site"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
-  "license": "KINDLY",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/default-page/issues"
   },
