@@ -17,7 +17,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "eject": "react-scripts eject"
   },
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/IonicaBizau/default-page"
   },
@@ -36,7 +36,8 @@
   },
   "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "contributors": [
-    "Darshan K S <darshanks.work@gmail.com> (https://darshan-k-s.github.io/)"
+    "Darshan K S <darshanks.work@gmail.com> (https://darshan-k-s.github.io/)",
+    "Toyin M M <toyinmuhammed50@gmail.com> (https://github.com/Toyin5)"
   ],
   "license": "MIT",
   "bugs": {
@@ -63,7 +64,6 @@
     "bloggify.json",
     "bloggify/"
   ],
-
   "browserslist": {
     "production": [
       ">0.2%",
